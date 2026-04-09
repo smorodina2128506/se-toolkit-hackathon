@@ -4,7 +4,8 @@ A web app that tracks expiry dates of your fridge items and warns you before the
 
 ## Demo
 
-> Screenshots coming soon — add yours after deployment.
+![Dashboard](screenshots/Снимок%20экрана%202026-04-09%20145308.png)
+![Products list](screenshots/Снимок%20экрана%202026-04-09%20145534.png)
 
 ## Product Context
 
